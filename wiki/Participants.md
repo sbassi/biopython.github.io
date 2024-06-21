@@ -43,13 +43,13 @@ in the Biopython source code or the
 
 |                         |                                                       |
 |-------------------------|-------------------------------------------------------|
-| E-mail                  | <sbassi@genesdigitales.com>                           |
-| Affiliation             | Universidad Nacional de Quilmes                       |
-| Location                | Balcarce, Buenos Aires, Argentina                     |
-| Uses Python for         | Bioinformatics and data manipulation                  |
-| Work/Research Interests | IT Manager Advanta Seeds in Balcarce Research Station |
+| E-mail                  | <sebastian@toyoko.io>                                 |
+| Affiliation             | Toyoko LLC                                            |
+| Location                | Emeryville, CA                                        |
+| Uses Python for         | Bioinformatics                                        |
+| Work/Research Interests | DNALinux and software development                     |
 | Biopython Contributions | LCC and primer Tm calculation function                |
-| Relevant URL            | <http://www.bioinformatica.info>                      |
+| Relevant URL            | <https://www.toyoko.io/>                              |
 
 ### Jeffrey Chang
 
